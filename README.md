@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi there, I'm Zaka Ahmed
 
-<!--
-**zakaahmed1/zakaahmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a background in mathematics. I'm currently working on some AI/ML projects and looking to go into Data Engineering via an AI/ML pathway.
 
-Here are some ideas to get you started:
+- 💻 Currently working on: a Pomodoro-style workday timer and Spring Boot checklist systems  
+- ☁️ AWS Certified and learning AI/ML tools  
+- 🧠 MSci in Mathematics | Studying Financial Engineering (WQU)  
+- ⚽ Volunteering as a football coach since 2017  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+
+## 🔗 Projects
+
+Here are a few things I've been working on:
+
+- 🕒 [Pomodoro Workday Timer](https://github.com/zakaahmed1/pomodoro-timer)  
+  Simulates a 9–5 workday using 25-minute intervals. Tracks total work and break time, and takes user input after each session.
+
+- 📋 [Checklist Submission App](https://github.com/MysticDodo/CACSChecklist)
+  A Spring Boot app where users can fill out and submit dynamic checklists with different question types.
+
+## 🚀 Goals for 2025
+
+- Earn the AWS AI Practitioner certification
+
+## 📫 Connect With Me
+
+- 🧑‍💻 [GitHub](https://github.com/zakaahmed1)
+- 📝 [LinkedIn](https://www.linkedin.com/in/zakaahmed1/)  
+- 📬 Email: zakaahmed1@hotmail.com
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zakaahmed1&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaka's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaahmed1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zakaahmed1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
