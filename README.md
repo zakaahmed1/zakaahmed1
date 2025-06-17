@@ -3,7 +3,8 @@
 I'm a software engineer with a background in mathematics. I'm currently working on some AI/ML projects and looking to go into Data Engineering via an AI/ML pathway.
 
 - 💻 Currently working on: a Pomodoro-style workday timer and Spring Boot checklist systems  
-- ☁️ AWS Certified and learning AI/ML tools  
+- ☁️ AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
+- ☁️ Databricks Certified Data Engineer Associate
 - 🧠 MSci in Mathematics | Studying Financial Engineering (WQU)  
 - ⚽ Volunteering as a football coach since 2017  
 
