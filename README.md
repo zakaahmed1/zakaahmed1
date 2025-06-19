@@ -22,6 +22,9 @@ I'm a software engineer with a background in mathematics. I'm currently working 
 
 Here are a few things I've been working on:
 
+- [Interactive Map of Birmingham](https://github.com/zakaahmed1/clean-brum)
+- An interactive map of Birmingham, allowing you to zoom around and explore Birmingham roads, and explore their statistics.
+
 - 🕒 [Pomodoro Workday Timer](https://github.com/zakaahmed1/pomodoro-timer)  
   Simulates a 9–5 workday using 25-minute intervals. Tracks total work and break time, and takes user input after each session.
 
