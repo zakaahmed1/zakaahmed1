@@ -33,7 +33,9 @@ Here are a few things I've been working on:
 
 ## 🚀 Goals for 2025
 
-- Earn the AWS AI Practitioner certification
+- Earn the AWS AI Practitioner certification :white_check_mark:
+- Get Databricks certificates in Data Engineering and Generative AI
+- Complete web page project exploring the roads in Birmingham
 
 ## 📫 Connect With Me
 
