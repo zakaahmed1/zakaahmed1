@@ -4,7 +4,7 @@ I'm a software engineer with a background in mathematics. I'm currently working 
 
 - 💻 Currently working on: a Pomodoro-style workday timer and Spring Boot checklist systems  
 - ☁️ AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
-- ☁️ Databricks Certified Data Engineer Associate
+- ☁️ Databricks Certified Data Engineer Associate and Certified Generative AI Associate
 - 🧠 MSci in Mathematics | Studying Financial Engineering (WQU)  
 - ⚽ Volunteering as a football coach since 2017  
 
