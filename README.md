@@ -22,6 +22,9 @@ I'm a software engineer with a background in mathematics. I'm currently working 
 
 Here are a few things I've been working on:
 
+- 🎮 [Zaka's Game Hub](https://zaka-game-central.vercel.app/)
+  A collection of mini-games (Love Score Calculator, Wordle clone, Blackjack) built with React, Next.js and TypeScript.
+
 - [Interactive Map of Birmingham](https://github.com/zakaahmed1/clean-brum)
 - An interactive map of Birmingham, allowing you to zoom around and explore Birmingham roads, and explore their statistics.
 
