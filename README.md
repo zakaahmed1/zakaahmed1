@@ -4,7 +4,9 @@ I'm a software engineer with a background in mathematics. I'm currently working 
 
 - 💻 Currently working on: a central game hub with a collection of game created using Python and TypeScript  
 - ☁️ AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
-- ☁️ Databricks Certified Data Engineer Associate and Certified Generative AI Associate
+- ☁️ Databricks Certified Data Engineer Associate, Databricks Certified Generative AI Associate
+- ☁️ Microsoft Fabric Certified Data Engineer Associate
+- ☁️ Snowflake SnowPro Core Certified
 - 🧠 MSci in Mathematics | Studying Financial Engineering (WQU)  
 - ⚽ Volunteering as a football coach since 2017  
 
@@ -17,6 +19,7 @@ I'm a software engineer with a background in mathematics. I'm currently working 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 
 ## 🔗 Projects
 
