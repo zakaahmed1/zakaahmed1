@@ -4,7 +4,7 @@ I'm a software engineer with a background in mathematics. I'm currently working 
 
 - 💻 Currently working on: a central game hub with a collection of game created using Python and TypeScript  
 - ☁️ AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
-- ☁️ Databricks Certified Data Engineer Associate, Databricks Certified Generative AI Associate
+- ☁️ Databricks Certified Data Engineer Professional & Associate, Databricks Certified Generative AI Associate
 - ☁️ Microsoft Fabric Certified Data Engineer Associate
 - ☁️ Snowflake SnowPro Core Certified
 - 🧠 MSci in Mathematics | Studying Financial Engineering (WQU)  
